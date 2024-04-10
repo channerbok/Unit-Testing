@@ -1,4 +1,4 @@
-using Xunit;
+using FluentAssertions;
 using UtilityLibraries;
 
 namespace StringLibraryTest
@@ -9,14 +9,12 @@ namespace StringLibraryTest
         public void TestStartsWithUpper()
         {
             // Tests that we expect to return true.
-            string[] words = { "alphabet", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство",
-                   "1234", ".", ";", " " };
+             string[] words = { "Alphabet", "Zebra", "ABC", "Αθήνα", "Москва" };
+
             foreach (var word in words)
             {
                 bool result = word.StartsWithUpper();
-                Assert.True(result,
-                    string.Format("Expected for '{0}': true; Actual: {1}",
-                        word, result));
+                result.Should().BeTrue($"'{word}'");
             }
         }
 
@@ -29,24 +27,23 @@ namespace StringLibraryTest
             foreach (var word in words)
             {
                 bool result = word.StartsWithUpper();
-                Assert.False(result,
-                    string.Format("Expected for '{0}': false; Actual: {1}",
-                        word, result));
+                result.Should().BeFalse();
+                
             }
         }
 
-        [Fact]
-        public void DirectCallWithNullOrEmpty()
+        //[Fact]
+        [Theory]
+        [InlineData("")]
+        [InlineData(null)]
+        [InlineData("   ")]
+
+        public void DirectCallWithNullOrEmpty(string word)
         {
-            // Tests that we expect to return false.
-            string?[] words = { string.Empty, null };
-            foreach (var word in words)
-            {
-                bool result = StringLibrary.StartsWithUpper(word);
-                Assert.False(result,
-                    string.Format("Expected for '{0}': false; Actual: {1}",
-                        word == null ? "<null>" : word, result));
-            }
+            // Tests that we expect to return false.   
+            bool result = StringLibrary.StartsWithUpper(word);
+            result.Should().BeFalse();
+              
         }
     }
 }

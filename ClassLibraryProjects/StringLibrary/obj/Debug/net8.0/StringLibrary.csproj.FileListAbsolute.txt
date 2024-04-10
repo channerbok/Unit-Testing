@@ -20,3 +20,15 @@ C:\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrar
 C:\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
 C:\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
 C:\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\cbok1\OneDrive\Documents\GitHub\Unit-Testing\ClassLibraryProjects\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

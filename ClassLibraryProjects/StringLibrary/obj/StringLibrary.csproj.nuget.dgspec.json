@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {}
+    "C:\\Users\\cbok1\\OneDrive\\Documents\\GitHub\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
+    "C:\\Users\\cbok1\\OneDrive\\Documents\\GitHub\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\cbok1\\OneDrive\\Documents\\GitHub\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
         "projectName": "StringLibrary",
-        "projectPath": "C:\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
-        "packagesPath": "C:\\Users\\chann\\.nuget\\packages\\",
-        "outputPath": "C:\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\obj\\",
+        "projectPath": "C:\\Users\\cbok1\\OneDrive\\Documents\\GitHub\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+        "packagesPath": "C:\\Users\\cbok1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cbok1\\OneDrive\\Documents\\GitHub\\Unit-Testing\\ClassLibraryProjects\\StringLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\chann\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\cbok1\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
